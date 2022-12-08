@@ -1,0 +1,1 @@
+Puzzle answers of [Advent of Code 2022](https://adventofcode.com/2022) can be calculated by this programs
